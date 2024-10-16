@@ -1,3 +1,14 @@
+# Title: StevenBlack/hosts
+#
+# Date: 16 October 2024
+# Number of unique domains: 34
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/BoneBunny/pihole-blocklists/refs/heads/master/blocklist.txt
+# Project home page: https://github.com/BoneBunny/pihole-blocklists
+# Project releases: https://github.com/BoneBunny/pihole-blocklists
+#
+# ===============================================================
+
 ### Snapchat ###
 0.0.0.0 app-analytics-v2.snapchat.com
 0.0.0.0 aws-proxy-gcp.api.snapchat.com
