@@ -23,26 +23,20 @@
 0.0.0.0 usc1-gcp-v62.api.snapchat.com
 
 ### Call of Duty Mobile ###
+0.0.0.0 activision.itopsdk.com
 0.0.0.0 atm-broker-tcp-prod-cmw-na.codmwest.com
 0.0.0.0 broker-tcp-prod-cmw-na.codmwest.com
 0.0.0.0 de.west-gvoice.codmwest.com
 0.0.0.0 dir.4.401402081.west-gcloud.codm.activision.com
 0.0.0.0 download.2.401402081.west-gcloud.codm.activision.com
 0.0.0.0 hycdn.cn.codm.qq.com
+0.0.0.0 mobileservices.activision.net
 0.0.0.0 puffer.6.401402081.west-gcloud.codm.activision.com
 0.0.0.0 reportwest-midas.codmwest.com
 0.0.0.0 speedtest.gem.codmwest.com
-0.0.0.0 us.west-gvoice.codmwest.com
 0.0.0.0 usalive.lobby1.west.codm.activision.com
+0.0.0.0 us.west-gvoice.codmwest.com
 0.0.0.0 west-cloudctrl.codm.activision.com
 0.0.0.0 west-cschannel.codm.activision.com
 0.0.0.0 west-midas.codm.activision.com
 0.0.0.0 west-tdm.codmwest.com
-0.0.0.0 activision.itopsdk.com
-0.0.0.0 dir.4.401402081.west-gcloud.codm.activision.com
-0.0.0.0 download.2.401402081.west-gcloud.codm.activision.com
-0.0.0.0 puffer.6.401402081.west-gcloud.codm.activision.com
-0.0.0.0 usalive.lobby1.west.codm.activision.com
-0.0.0.0 west-cloudctrl.codm.activision.com
-0.0.0.0 west-cschannel.codm.activision.com
-0.0.0.0 west-midas.codm.activision.com
