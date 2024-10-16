@@ -1,0 +1,35 @@
+### Snapchat ####
+0.0.0.0 adsapi.snapchat.com
+0.0.0.0 ads-interfaces.sc-cdn.net
+0.0.0.0 app-analytics.snapchat.com
+0.0.0.0 app-analytics-v2.snapchat.com
+0.0.0.0 ase.adserver.snapads.com
+0.0.0.0 asia-southeast1-gcp.api.snapchat.com
+0.0.0.0 aws.api.snapchat.com
+0.0.0.0 aws-cf.api.snapchat.com
+0.0.0.0 aws.duplex.snapchat.com
+0.0.0.0 aws-proxy-gcp.api.snapchat.com
+0.0.0.0 bolt-gcdn.sc-cdn.net
+0.0.0.0 europe-west1-gcp.api.snapchat.com
+0.0.0.0 euw.adserver.snapads.com
+0.0.0.0 gcp.api.snapchat.com
+0.0.0.0 gtq6.sct.sc-prod.net
+0.0.0.0 usc1-gcp-v61.api.snapchat.com
+0.0.0.0 usc1-gcp-v62.api.snapchat.com
+0.0.0.0 usc.adserver.snapads.com
+0.0.0.0 us-central1-gcp.api.snapchat.com
+0.0.0.0 us-east1-aws.api.snapchat.com
+0.0.0.0 us-east4-gcp.api.snapchat.com
+
+### CoD Mobile ###
+0.0.0.0 mobileservices.activision.com
+0.0.0.0 mobileservices.activision.net
+0.0.0.0 mobileservices.activision.com.edgesuite.net
+0.0.0.0 mobileservices.activision.com.akadns.net
+0.0.0.0 mobileservices.activision.com.cdn.cloudflare.net
+0.0.0.0 codm.activision.com
+0.0.0.0 callofduty.com
+0.0.0.0 callofdutyleague.com
+0.0.0.0 codm.activision.com.edgesuite.net
+0.0.0.0 codm.activision.com.akadns.net
+0.0.0.0 codm.activision.com.cdn.cloudflare.net
