@@ -47,7 +47,7 @@
 ### VPN ###
 0.0.0.0 visit.nordvpn.com
 0.0.0.0 top.vpnpro.com
-0.0.0.0 nordvpn.com
+# 0.0.0.0 nordvpn.com
 0.0.0.0 media2.vpnpro.com
 0.0.0.0 go.nordvpn.net
 0.0.0.0 d.nordvpn.com
